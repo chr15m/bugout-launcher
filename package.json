@@ -1,0 +1,14 @@
+{
+  "name": "bugout-launcher",
+  "version": "0.0.1",
+  "description": "Launch Bugout instances in a headless browser.",
+  "main": "./index.js",
+  "bin": {
+    "bugout-launcher": "./index.js"
+  },
+  "dependencies": {
+    "chrome-launcher": "^0.10.2",
+    "chrome-remote-interface": "^0.26.1",
+    "valid-url": "^1.0.9"
+  }
+}
