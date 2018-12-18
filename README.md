@@ -1,7 +1,7 @@
 Helper script to launch & wrangle [Bugout](https://github.com/chr15m/bugout) servers.
 
 <p align="center">
-    <img src="https://cdn.rawgit.com/chr15m/bugout-launcher/master/bugout-launcher-screencast.svg"/>
+    <img src="https://cdn.jsdelivr.net/gh/chr15m/bugout-launcher/bugout-launcher-screencast.svg"/>
 </p>
 
 ```
